@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prism
+- 👋 Hi, I’m @TurboMetal
 - 👀 I’m interested in contributing to open source
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on beginner friendly projects
